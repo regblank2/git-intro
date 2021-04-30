@@ -1,5 +1,5 @@
 # Example Repo for Intro to Git and Github
-
+# Irina
 ## Setting Up
 
 1. [Download Git](https://git-scm.com/downloads)
